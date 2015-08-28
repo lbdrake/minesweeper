@@ -1,3 +1,4 @@
 # minesweeper
 app academy's minesweeper project
-test
+
+pushed to remote repositories
